@@ -1,5 +1,5 @@
 # navicat-keygen for windows
-
+说明
 这份repo将会告诉你Navicat是怎么完成离线激活的。
 
 第一次归档的代码位于 [`windows-archived`](https://notabug.org/doublesine/navicat-keygen/src/windows-archived) 分支。归档原因：包含第三方二进制库，项目过大。
